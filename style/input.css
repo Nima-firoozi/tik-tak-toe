@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@layer base {}
+
+@layer utilities {}
+
+@layer components {
+    .square {
+        @apply w-[32.5%] h-[32.5%] bg-cyan-950 flex justify-center items-center cursor-pointer
+    }
+
+    .winline-row {
+        @apply absolute left-0 -translate-y-1/2 h-3 rounded-full duration-400
+    }
+
+    .winline-col {
+        @apply absolute top-0 -translate-x-1/2 w-3 rounded-full duration-400
+    }
+
+    .winline-left {
+        @apply absolute top-0 left-0 h-3 duration-400 origin-left rotate-45 rounded-full
+    }
+
+    .winline-right {
+        @apply absolute top-0 right-0 h-3 duration-400 origin-right -rotate-45 rounded-full
+    }
+
+    .wfull {
+        @apply w-[141%]
+    }
+}
+
+@layer theme {}
