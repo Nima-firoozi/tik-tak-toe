@@ -10,6 +10,6 @@
 #
 This game has an incredibly strong logic implemented in it, making it impossible for you to win in single-player mode.
  # SCREEN-SHOT
-<img src="public/ss/4.png" >
-<img src="public/ss/3.png" >
-<img src="public/ss/2.png" >
+<img src="ss/4.png" >
+<img src="ss/3.png" >
+<img src="ss/2.png" >
