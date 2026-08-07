@@ -12,7 +12,7 @@
         xBtn = $.querySelector(".x"),
         oBtn = $.querySelector(".o"),
         game = $.querySelector('.game')
-
+//dont give up
 
 
 
