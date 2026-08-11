@@ -26,7 +26,7 @@
 
     //variables
 
-
+//never giveup
 
 
     //function show or hide pages
