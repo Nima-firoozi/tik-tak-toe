@@ -26,7 +26,7 @@
 
     //variables
 
-//never giveup
+//never giveup or github
 
 
     //function show or hide pages
